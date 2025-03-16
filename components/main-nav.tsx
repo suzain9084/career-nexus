@@ -17,6 +17,7 @@ import {
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
 import { Menu } from "lucide-react"
 import { useMobile } from "@/hooks/use-mobile"
+import { userdata } from "@/app/login/page"
 
 export function MainNav() {
   const pathname = usePathname()
@@ -73,11 +74,7 @@ export function MainNav() {
           description: "Create a professional resume with AI assistance.",
         },
       ],
-    },
-    {
-      title: "Resources",
-      href: "/resources",
-    },
+    }
   ]
 
   return isMobile ? (
@@ -107,6 +104,7 @@ export function MainNav() {
                   {item.title}
                 </Link>
               ))}
+              {userdata.isLogin ?
               <div className="flex flex-col gap-2 mt-4 pt-4 border-t">
                 <Button asChild variant="outline">
                   <Link href="/login">Log In</Link>
@@ -114,7 +112,7 @@ export function MainNav() {
                 <Button asChild>
                   <Link href="/signup">Sign Up</Link>
                 </Button>
-              </div>
+              </div> : <div>{userdata.username}</div>}
             </nav>
           </SheetContent>
         </Sheet>
