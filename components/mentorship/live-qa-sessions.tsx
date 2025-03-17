@@ -111,7 +111,7 @@ export function LiveQASessions() {
                   <div className="bg-muted aspect-video relative">
                     <div className="absolute inset-0 flex items-center justify-center">
                       <img
-                        src="/placeholder.svg?height=400&width=600"
+                        src="/manager.png?height=400&width=600"
                         alt="Live session"
                         className="w-full h-full object-cover"
                       />
@@ -222,11 +222,11 @@ const upcomingSessions = [
     date: "March 25, 2025",
     time: "2:00 PM - 3:30 PM EST",
     attendees: 156,
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/career_path.jpeg?height=200&width=300",
     host: {
       name: "David Kim",
       title: "Senior Recruiter at TechHire",
-      avatar: "/placeholder.svg?height=40&width=40",
+      avatar: "/David_Kim.jpeg?height=40&width=40",
     },
   },
   {
@@ -237,11 +237,11 @@ const upcomingSessions = [
     date: "March 28, 2025",
     time: "1:00 PM - 2:30 PM EST",
     attendees: 203,
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/dsa.jpg?height=200&width=300",
     host: {
       name: "Priya Patel",
       title: "Software Engineer at BigTech",
-      avatar: "/placeholder.svg?height=40&width=40",
+      avatar: "/Priya_Patel.jpeg?height=40&width=40",
     },
   },
 ]
@@ -253,11 +253,11 @@ const pastSessions = [
     category: "Career Development",
     date: "March 10, 2025",
     attendees: 189,
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/tech.jpeg?height=200&width=300",
     host: {
       name: "James Taylor",
       title: "Developer Advocate",
-      avatar: "/placeholder.svg?height=40&width=40",
+      avatar: "/James_Taylor.webp?height=40&width=40",
     },
   },
   {
@@ -267,11 +267,11 @@ const pastSessions = [
     category: "Career Growth",
     date: "March 5, 2025",
     attendees: 245,
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/senior.jpeg?height=200&width=300",
     host: {
       name: "Sophia Martinez",
       title: "Engineering Manager",
-      avatar: "/placeholder.svg?height=40&width=40",
+      avatar: "/Sophia_Martinez.jpeg?height=40&width=40",
     },
   },
 ]
@@ -281,33 +281,33 @@ const chatMessages = [
     name: "John D.",
     message: "What's the biggest challenge you faced when transitioning to management?",
     time: "2:15 PM",
-    avatar: "/placeholder.svg?height=32&width=32",
+    avatar: "/james_Taylor.webp?height=32&width=32",
   },
   {
     name: "Emily Wilson",
     message:
       "Great question, John! The biggest challenge was shifting from being evaluated on my technical output to being measured by my team's success.",
     time: "2:17 PM",
-    avatar: "/placeholder.svg?height=32&width=32",
+    avatar: "/Emily_Wilson.jpeg?height=32&width=32",
   },
   {
     name: "Sarah L.",
     message: "How do you balance staying technical while focusing on management responsibilities?",
     time: "2:20 PM",
-    avatar: "/placeholder.svg?height=32&width=32",
+    avatar: "/Sarah_Chen.jpg?height=32&width=32",
   },
   {
     name: "Emily Wilson",
     message:
       "I dedicate a few hours each week to code reviews and technical discussions. It's important to stay connected to the technical work without micromanaging.",
     time: "2:22 PM",
-    avatar: "/placeholder.svg?height=32&width=32",
+    avatar: "/Emily_Wilson.jpeg?height=32&width=32",
   },
   {
     name: "Michael R.",
     message: "What skills should developers focus on if they want to move into management eventually?",
     time: "2:25 PM",
-    avatar: "/placeholder.svg?height=32&width=32",
+    avatar: "/Michael_Rodriguez.jpeg?height=32&width=32",
   },
 ]
 

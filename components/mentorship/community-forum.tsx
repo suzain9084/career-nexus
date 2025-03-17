@@ -233,7 +233,7 @@ const forumPosts: ForumPost[] = [
       "I've been working as a frontend developer for 3 years and want to expand my skills to backend. What's the best approach?",
     author: {
       name: "Alex Johnson",
-      avatar: "/placeholder.svg?height=24&width=24",
+      avatar: "/Alex_Johnson.jpeg?height=24&width=24",
     },
     category: "Career Development",
     tags: ["career-change", "full-stack", "learning-path"],
@@ -249,7 +249,7 @@ const forumPosts: ForumPost[] = [
       "I'm building a React application and need advice on secure authentication implementation. What are the current best practices?",
     author: {
       name: "Sarah Chen",
-      avatar: "/placeholder.svg?height=24&width=24",
+      avatar: "/Sarah_Chen.jpg?height=24&width=24",
     },
     category: "Technical",
     tags: ["react", "authentication", "security"],
@@ -264,7 +264,7 @@ const forumPosts: ForumPost[] = [
       "I'm looking for guidance in the AI/ML field but having trouble finding the right mentor. Any suggestions?",
     author: {
       name: "Michael Rodriguez",
-      avatar: "/placeholder.svg?height=24&width=24",
+      avatar: "/Michael_Rodriguez.jpeg?height=24&width=24",
     },
     category: "Mentorship",
     tags: ["ai", "machine-learning", "finding-mentors"],
@@ -279,7 +279,7 @@ const forumPosts: ForumPost[] = [
       "I've received an offer for a senior role but the salary seems below market rate. How should I approach negotiation?",
     author: {
       name: "Emily Wilson",
-      avatar: "/placeholder.svg?height=24&width=24",
+      avatar: "/Emily_Wilson.jpeg?height=24&width=24",
     },
     category: "Career Development",
     tags: ["salary-negotiation", "senior-roles", "job-offers"],
@@ -328,25 +328,25 @@ const activeDiscussions = [
 const topContributors = [
   {
     name: "David Kim",
-    avatar: "/placeholder.svg?height=32&width=32",
+    avatar: "/David_Kim.jpeg?height=32&width=32",
     posts: 156,
     level: "Expert",
   },
   {
     name: "Priya Patel",
-    avatar: "/placeholder.svg?height=32&width=32",
+    avatar: "/Priya_Patel.jpeg?height=32&width=32",
     posts: 124,
     level: "Mentor",
   },
   {
     name: "James Taylor",
-    avatar: "/placeholder.svg?height=32&width=32",
+    avatar: "/James_Taylor.webp?height=32&width=32",
     posts: 98,
     level: "Advanced",
   },
   {
     name: "Sophia Martinez",
-    avatar: "/placeholder.svg?height=32&width=32",
+    avatar: "/Sophia_Martinez.jpeg?height=32&width=32",
     posts: 87,
     level: "Mentor",
   },

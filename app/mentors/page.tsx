@@ -199,7 +199,7 @@ const mentors = [
     specialty: "Web Development",
     rating: 4.9,
     reviews: 124,
-    imageUrl: "/placeholder.svg?height=300&width=300",
+    imageUrl: "/Alex_Johnson.jpeg?height=300&width=300",
   },
   {
     name: "Sarah Chen",
@@ -207,7 +207,7 @@ const mentors = [
     specialty: "Product Strategy",
     rating: 4.8,
     reviews: 98,
-    imageUrl: "/placeholder.svg?height=300&width=300",
+    imageUrl: "/Sarah_Chen.jpg?height=300&width=300",
   },
   {
     name: "Michael Rodriguez",
@@ -215,7 +215,7 @@ const mentors = [
     specialty: "User Experience",
     rating: 4.7,
     reviews: 86,
-    imageUrl: "/placeholder.svg?height=300&width=300",
+    imageUrl: "/Michael_Rodriguez.jpeg?height=300&width=300",
   },
   {
     name: "Priya Patel",
@@ -223,7 +223,7 @@ const mentors = [
     specialty: "Machine Learning",
     rating: 4.9,
     reviews: 112,
-    imageUrl: "/placeholder.svg?height=300&width=300",
+    imageUrl: "/Priya_Patel.jpeg?height=300&width=300",
   },
   {
     name: "David Kim",
@@ -231,7 +231,7 @@ const mentors = [
     specialty: "Digital Marketing",
     rating: 4.6,
     reviews: 75,
-    imageUrl: "/placeholder.svg?height=300&width=300",
+    imageUrl: "/David_Kim.jpeg?height=300&width=300",
   },
   {
     name: "Emily Wilson",
@@ -239,7 +239,7 @@ const mentors = [
     specialty: "Leadership",
     rating: 4.8,
     reviews: 92,
-    imageUrl: "/placeholder.svg?height=300&width=300",
+    imageUrl: "/Emily_Wilson.jpeg?height=300&width=300",
   },
   {
     name: "James Taylor",
@@ -247,7 +247,7 @@ const mentors = [
     specialty: "React & UI Development",
     rating: 4.7,
     reviews: 68,
-    imageUrl: "/placeholder.svg?height=300&width=300",
+    imageUrl: "/James_Taylor.webp?height=300&width=300",
   },
   {
     name: "Sophia Martinez",
@@ -255,7 +255,7 @@ const mentors = [
     specialty: "Entrepreneurship",
     rating: 4.9,
     reviews: 104,
-    imageUrl: "/placeholder.svg?height=300&width=300",
+    imageUrl: "/Sophia_Martinez.jpeg?height=300&width=300",
   },
   {
     name: "Robert Chen",
@@ -263,7 +263,7 @@ const mentors = [
     specialty: "System Architecture",
     rating: 4.8,
     reviews: 89,
-    imageUrl: "/placeholder.svg?height=300&width=300",
+    imageUrl: "/Robert_Chen.webp?height=300&width=300",
   },
 ]
 

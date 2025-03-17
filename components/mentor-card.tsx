@@ -26,7 +26,7 @@ export function MentorCard({ name, title, specialty, rating, reviews, imageUrl }
       <CardHeader className="p-0">
         <div className="aspect-square w-full overflow-hidden">
           <img
-            src={imageUrl || "/placeholder.svg"}
+            src={imageUrl}
             alt={name}
             className="object-cover w-full h-full transition-transform hover:scale-105"
           />

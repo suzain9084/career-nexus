@@ -49,7 +49,7 @@ const testimonials = [
   {
     name: "Suzain",
     role: "Frontend Developer",
-    avatar: "/placeholder.svg?height=40&width=40",
+    avatar: "/suzain.jpg?height=40&width=40",
     content:
       "The skill assessment identified gaps in my knowledge that I wasn't aware of. My mentor helped me create a learning plan that fast-tracked my development as a frontend specialist.",
     outcome: "Landed a senior role at a top tech company",

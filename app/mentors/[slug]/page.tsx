@@ -55,7 +55,7 @@ export default function MentorProfilePage({ params }: { params: { slug: string }
           <div className="flex flex-col md:flex-row gap-6 items-start">
             <div className="w-full md:w-1/3">
               <img
-                src={mentor.imageUrl || "/placeholder.svg"}
+                src={mentor.imageUrl}
                 alt={mentor.name}
                 className="w-full aspect-square object-cover rounded-lg"
               />

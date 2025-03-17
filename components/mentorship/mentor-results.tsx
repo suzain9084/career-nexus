@@ -94,7 +94,7 @@ const mentors = [
   {
     name: "Alex Johnson",
     title: "Senior Software Engineer at TechCorp",
-    avatar: "/placeholder.svg?height=96&width=96",
+    avatar: "/Alex_Johnson.jpeg?height=96&width=96",
     rating: 4.9,
     reviews: 124,
     matchPercentage: 95,
@@ -106,7 +106,7 @@ const mentors = [
   {
     name: "Sarah Chen",
     title: "Product Manager at ProductLabs",
-    avatar: "/placeholder.svg?height=96&width=96",
+    avatar: "/Sophia_Martinez.jpeg?height=96&width=96",
     rating: 4.8,
     reviews: 98,
     matchPercentage: 92,
@@ -118,7 +118,7 @@ const mentors = [
   {
     name: "Michael Rodriguez",
     title: "UX Designer & Team Lead",
-    avatar: "/placeholder.svg?height=96&width=96",
+    avatar: "/Michael_Rodriguez.jpeg?height=96&width=96",
     rating: 4.7,
     reviews: 86,
     matchPercentage: 88,
