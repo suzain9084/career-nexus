@@ -19,7 +19,7 @@ export default function MentorProfilePage({ params }: { params: { slug: string }
     languages: ["English", "Spanish"],
     experience: "10+ years",
     education: "M.S. Computer Science, Stanford University",
-    imageUrl: "/placeholder.svg?height=400&width=400",
+    imageUrl: "/Alex_Johnson.jpeg?height=400&width=400",
     hourlyRate: 85,
     availability: "Evenings and weekends",
     skills: ["React", "Node.js", "JavaScript", "TypeScript", "AWS", "System Design", "Career Guidance"],

@@ -39,7 +39,7 @@ export function TestimonialsSection() {
 
 const testimonials = [
   {
-    name: "Emma Thompson",
+    name: "Ayush Kaushik",
     role: "Product Manager at TechCorp",
     avatar: "/placeholder.svg?height=40&width=40",
     content:
@@ -47,7 +47,7 @@ const testimonials = [
     outcome: "Increased salary by 35% after career change",
   },
   {
-    name: "James Wilson",
+    name: "Suzain",
     role: "Frontend Developer",
     avatar: "/placeholder.svg?height=40&width=40",
     content:
@@ -55,9 +55,9 @@ const testimonials = [
     outcome: "Landed a senior role at a top tech company",
   },
   {
-    name: "Priya Patel",
+    name: "Ansh Gupta",
     role: "Startup Founder",
-    avatar: "/placeholder.svg?height=40&width=40",
+    avatar: "/ansh-gupta.jpg?height=40&width=40",
     content:
       "The mentorship program connected me with experienced entrepreneurs who provided invaluable advice on launching my startup. The community forums were also incredibly helpful.",
     outcome: "Successfully secured seed funding for my startup",

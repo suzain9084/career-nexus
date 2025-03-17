@@ -28,7 +28,7 @@ export function HeroSection() {
           <img
             alt="Career guidance illustration"
             className="mx-auto aspect-video overflow-hidden rounded-xl object-cover sm:w-full lg:order-last"
-            src="/placeholder.svg?height=500&width=800"
+            src="/homepage.png?height=500&width=800"
           />
         </div>
       </div>
